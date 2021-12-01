@@ -1,0 +1,19 @@
+.online {
+  display: block;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: green;
+  margin-right: 10px;
+}
+.offline {
+  display: block;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: red;
+  margin-right: 10px;
+}
+.avatar {
+  margin-right: 10px;
+}
